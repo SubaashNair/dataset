@@ -1,0 +1,30 @@
+This is an ordered list of the most massive black holes so far discovered (and probable candidates), measured in units of solar masses (M☉), approximately 2×1030 kilograms.
+
+
+== Introduction ==
+
+A supermassive black hole (SMBH) is an extremely large black hole, on the order of hundreds of thousands to billions of solar masses (M☉), and is theorized to exist in the center of almost all massive galaxies. In some galaxies, there are even binary systems of supermassive black holes, see the OJ 287 system. Unambiguous dynamical evidence for SMBHs exists only in a handful of galaxies; these include the Milky Way, the Local Group galaxies M31 and M32, and a few galaxies beyond the Local Group, e.g. NGC 4395. In these galaxies, the mean square (or root mean square) velocities of the stars or gas rises as ~1/r near the center, indicating a central point mass. In all other galaxies observed to date, the rms velocities are flat, or even falling, toward the center, making it impossible to state with certainty that a supermassive black hole is present. Nevertheless, it is commonly accepted that the center of nearly every galaxy contains a supermassive black hole. The reason for this assumption is the M–sigma relation, a tight (low scatter) relation between the mass of the hole in the ~10 galaxies with secure detections, and the velocity dispersion of the stars in the bulges of those galaxies. This correlation, although based on just a handful of galaxies, suggests to many astronomers a strong connection between the formation of the black hole and the galaxy itself.
+Although SMBHs are currently theorized to exist in almost all massive galaxies, more massive black holes are rare; with only fewer than several dozen having been discovered to date. There is extreme difficulty in determining the mass of a particular SMBH, and so they still remain in the field of open research. SMBHs with accurate masses are limited only to galaxies within the Laniakea Supercluster and to active galactic nuclei.
+Another problem for this list is the method used in determining the mass. Such methods, such as broad emission-line reverberation mapping (BLRM), Doppler measurements, velocity dispersion, and the aforementioned M–sigma relation have not yet been well established. Most of the time, the masses derived from the given methods contradict each other's values.
+This list contains supermassive black holes with known masses, determined at least to the order of magnitude. Some objects in this list have two citations, like 3C 273; one from Bradley M. Peterson et al. using the BLRM method, and the other from Charles Nelson using [OIII]λ5007 value and velocity dispersion. Note that this list is very far from complete, as the Sloan Digital Sky Survey (SDSS) alone detected 200000 quasars, which likely may be the homes of billion-solar-mass black holes. In addition, there are several hundred citations for black hole measurements not yet included on this list. Despite this, the majority of well-known black holes above 1 billion M☉ are shown. Messier galaxies with precisely known black holes are all included.
+New discoveries suggest that many black holes, dubbed 'stupendously large', may exceed 100 billion or even 1 trillion solar masses.
+
+
+== List ==
+
+Due to the very large numbers involved, the listed black holes have their mass values in scientific notation (numbers multiplied to powers of 10). Values with uncertainties are written in parentheses when possible. Note that different entries in this list have different methods and systematics in obtaining their mass values, and hence different levels of confidence in their masses. These methods are specified in their notes.
+
+
+== See also ==
+List of largest cosmic structures
+List of largest galaxies
+List of least massive black holes
+List of most massive exoplanets
+List of most massive neutron stars
+List of most massive stars
+List of nearest known black holes
+List of the most distant astronomical objects
+Lists of astronomical objects
+
+
+== References ==
